@@ -16,7 +16,7 @@ Demo link: [E-Commerce web site](https://mproshop.herokuapp.com/ 'ProShop')
 
 - I created sveride radio app with React, Redux on frontend, and NodeJs, Express, mongoose on backend. I use Sverige Radio open source API.
 User can register, login, add channel or program to favorite list and can listen live radio !
-Demo link: https://www.linkedin.com/in/mzyazgan/
+Demo link: [Sveriges Radio ](https://sv-radio-app.herokuapp.com/ 'Sv Radio')
 
 
 - [LinkedIn](https://www.linkedin.com/in/mzyazgan// 'Linkedin')
