@@ -8,14 +8,14 @@ Feel free to take a look at  some of my projects below:
 
 - React Movie responsive web site,
 Demo link: [The Movie Central](https://the-movie-central.netlify.app 'The Movie Central')
-### I used MovieDB API, React, react-router-dom and react-query library in this project.
+I used MovieDB API, React, react-router-dom and react-query library in this project.
 
 
 - React- Redux MERN Stack E-commerce web site,
-### Demo link: [E-Commerce web site](https://mproshop.herokuapp.com/ 'ProShop')
+Demo link: [E-Commerce web site](https://mproshop.herokuapp.com/ 'ProShop')
 
 - I created sveride radio app with React, Redux on frontend, and NodeJs, Express, mongoose on backend. I use Sverige Radio open source API.
-### User can register, login, add channel or program to favorite list and can listen live radio !
+User can register, login, add channel or program to favorite list and can listen live radio !
 Demo link: [Sveriges Radio](https://sv-radio-app.herokuapp.com/ 'Sveriges Radio')
 
 
