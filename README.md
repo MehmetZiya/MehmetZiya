@@ -19,3 +19,4 @@ User can register, login, add channel or program to favorite list and can listen
 Demo link: [Sveriges Radio](https://sv-radio-app.herokuapp.com/ 'Sveriges Radio')
 
 
+LinkedIn : 
